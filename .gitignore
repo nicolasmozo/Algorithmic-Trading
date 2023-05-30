@@ -1,0 +1,42 @@
+# System files
+.DS_Store
+
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Executables
+*.out
+
+# Temp files
+*.swp
+
+# Debug files
+*.dSYM/
+*.h.gch
+
+#vs code files
+.vscode
+
+#test files
+*.txt
+
+#python cache 
+__pycache__
+
+.encryptedKey.json
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+gas-report.txt
+typechain-types
+gas-report.txt 
